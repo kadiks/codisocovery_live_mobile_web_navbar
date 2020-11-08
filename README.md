@@ -1,5 +1,7 @@
 # Web mobile navbar
 
+Regarder la vidéo pour savoir comment le code fonctionne : https://youtu.be/40lUIgZtCiQ
+
 ## Colors
 
 Background #121212
